@@ -1,0 +1,20 @@
+#movie-grid, #recommendation-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.movie-poster {
+    border: 2px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.movie-poster img {
+    width: 150px;
+    height: 225px;
+}
+
+.movie-poster.selected {
+    border-color: #f00;
+}
