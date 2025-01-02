@@ -1,5 +1,5 @@
 # Time-Based Recommender System
-# Read more about the Project here: https://pranjal28.hashnode.dev/building-a-time-based-movie-recommendation-system-with-bert4rec
+Read more about the Project here: https://pranjal28.hashnode.dev/building-a-time-based-movie-recommendation-system-with-bert4rec
 
 ## **Introduction**
 This project is a **time-based recommender system** inspired by the research paper [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://arxiv.org/abs/1904.06690). It is designed to recommend items to users based on their historical interactions, similar to how Amazon’s **"You Might Also Like"** or Netflix’s personalized suggestions work.
